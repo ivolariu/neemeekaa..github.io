@@ -1,0 +1,313 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="shortcut icon" href="http://www.neemeekaa.com/favicon.ico" />
+<meta name="ICBM" content="32.7765656,-79.9309216">
+<meta name="author" content="Neemeekaa Consulting">
+<meta name="description" content="Java web applications is what we do">
+<meta name="keywords" content="java,linux,html5,sso,romania,freelance">
+<title>Neemeekaa Consulting &raquo; Linux</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.neemeekaa.com/xmlrpc.php" />
+
+	<!--[if lt IE 9]>
+		<![endif]-->
+	<link rel="alternate" type="application/rss+xml" title="Neemeekaa Consulting &raquo; Feed" href="http://www.neemeekaa.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Neemeekaa Consulting &raquo; Comments Feed" href="http://www.neemeekaa.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Neemeekaa Consulting &raquo; Linux Comments Feed" href="http://www.neemeekaa.com/linux/feed/" />
+<link rel='stylesheet' id='jquery.slimbox-css'  href='http://www.neemeekaa.com/wp-content/plugins/slimbox/stylesheets/jquery.slimbox.css?ver=2.03' type='text/css' media='all' />
+<link rel='stylesheet' id='smallbusiness-style-css'  href='http://www.neemeekaa.com/wp-content/themes/small-business/style.css?ver=1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='cool-tag-cloud-css'  href='http://www.neemeekaa.com/wp-content/plugins/cool-tag-cloud/inc/cool-tag-cloud.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='social-widget-css'  href='http://www.neemeekaa.com/wp-content/plugins/social-media-widget/social_widget.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='quads-styles-css'  href='http://www.neemeekaa.com/wp-content/plugins/quick-adsense-reloaded/assets/css/quads.css?ver=1.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='smallbusiness-gfonts-css'  href='http://fonts.googleapis.com/css?family=Coda%3A400&#038;ver=3.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.neemeekaa.com/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.neemeekaa.com/wp-content/plugins/slimbox/javascript/jquery.slimbox.js?ver=2.03'></script>
+<script type='text/javascript' src='http://www.neemeekaa.com/wp-content/themes/small-business/js/html5.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.neemeekaa.com/wp-content/themes/small-business/js/menu.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.neemeekaa.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.neemeekaa.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Html5' href='http://www.neemeekaa.com/html5/' />
+<link rel='next' title='Core values' href='http://www.neemeekaa.com/company/core-values/' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='canonical' href='http://www.neemeekaa.com/linux/' />
+<script type="text/javascript">
+	jQuery(document).ready(function($){	
+	    var select = $('a[href$=".bmp"],a[href$=".gif"],a[href$=".jpg"],a[href$=".jpeg"], a[href$=".png"],a[href$=".BMP"],a[href$=".GIF"],a[href$=".JPG"],a[href$=".JPEG"],a[href$=".PNG"]');
+		select.slimbox();
+	});
+</script>
+	
+	<style type="text/css">
+	.site-title a, 
+	.site-title a:active, 
+	.site-title a:hover {
+	
+	color: #B81005;
+	}
+	
+	.entrytext {
+    background: transparent;    padding: 10px 0;
+	}
+	
+	</style>
+	
+	<link href="http://fonts.googleapis.com/css?family=Gloria+Hallelujah%7COpen+Sans&amp;subset=latin,latin,greek" rel="stylesheet">
+
+</head>
+<body class="page page-id-89 page-template-default" >
+
+  <div id="container">
+  	  <div id="top-menu-container">
+      
+	  <nav id="smallbusiness-top-menu"><div class="menu-top-menu-container"><ul id="menu-top-menu" class="menu"><li id="menu-item-292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-292"><a href="http://www.neemeekaa.com/company/">Company</a></li>
+<li id="menu-item-298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298"><a href="http://www.neemeekaa.com/services/">Services</a></li>
+<li id="menu-item-536" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-536"><a href="http://www.neemeekaa.com/faq/">FAQ</a></li>
+</ul></div></nav>
+	  
+
+<form method="get" id="searchform" action="http://www.neemeekaa.com/">
+		<label for="s" class="assistive-text"></label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search Text Here" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+</form>  
+      </div>
+      <div id ="header">
+      <div id ="header-content">
+      
+		<!-- Site Titele and Description Goes Here -->
+        <a href="http://www.neemeekaa.com/"><img class="site-logo" src="http://www.neemeekaa.com/wp-content/uploads/2013/02/neemeekaaLogoSite.png"/></a>
+        
+		<h2 class="site-title-hidden"></h2
+                
+        ><!-- Site Main Menu Goes Here -->
+        <nav id="smallbusiness-main-menu">
+		<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-546" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-546"><a href="http://www.neemeekaa.com/">Home</a></li>
+<li id="menu-item-296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-296"><a href="http://www.neemeekaa.com/company/">Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-620"><a href="http://www.neemeekaa.com/company/core-values/">Core values</a></li>
+	<li id="menu-item-621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-621"><a href="http://www.neemeekaa.com/company/capability-checklist/">Capability Checklist</a></li>
+	<li id="menu-item-2591" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2591"><a href="http://www.neemeekaa.com/company/careers/">Careers</a></li>
+	<li id="menu-item-619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-619"><a href="http://www.neemeekaa.com/company/team/">Team</a></li>
+</ul>
+</li>
+<li id="menu-item-290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-290"><a href="http://www.neemeekaa.com/services/">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-625"><a href="http://www.neemeekaa.com/services/enterprise-services/">Enterprise Services</a></li>
+	<li id="menu-item-626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-626"><a href="http://www.neemeekaa.com/services/cloud-computing/">Cloud Computing</a></li>
+	<li id="menu-item-624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-624"><a href="http://www.neemeekaa.com/services/development-partnering/">Development Partnering</a></li>
+	<li id="menu-item-622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-622"><a href="http://www.neemeekaa.com/services/project-management/">Project Management</a></li>
+	<li id="menu-item-623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-623"><a href="http://www.neemeekaa.com/services/business-analysis/">Reporting</a></li>
+</ul>
+</li>
+<li id="menu-item-545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-545"><a href="http://www.neemeekaa.com/faq/">FAQ</a></li>
+<li id="menu-item-295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-295"><a title="Contact" href="http://www.neemeekaa.com/contact/">Contact</a></li>
+</ul></div>        </nav>
+      
+      </div><!-- header-content -->
+      </div><!-- header -->
+      
+            
+      
+	  
+	 
+	  
+	<div id="content">
+
+				<div class="post-89 page type-page status-publish hentry" id="post-89">
+		<h1 class="page-title">Linux</h1>
+			<div class="content-ver-sep"> </div>
+            <div class="entrytext">
+ <img width="150" height="150" src="http://www.neemeekaa.com/wp-content/uploads/2013/02/Linux.png" class="attachment-category-thumb wp-post-image" alt="Linux" /> <p style="text-align: left;">Linux is a free Unix-like computer operating system that is actively developed by a number of companies and unaffiliated enthusiasts.<br />
+Some of the major contributors are: Red Hat, Google, Microsoft, Dell, IBM, HP, Oracle, Oracle, Novell, and Nokia.</p>
+<p style="text-align: left;">It runs on mobile phones, tablet computers, network routers, televisions, video game consoles and is the leading operating system on servers and other big systems such as mainframe computers and supercomputers, more than 90% of today’s 500 fastest supercomputers run some variant of Linux. (see <a href="http://www.top500.org/statistics/list/" target="_blank">link</a>)</p>
+<p style="text-align: left;">Linux is the dominant platform now for smartphones, web servers, and super-computers and is a foundational element of the largest and most powerful technology companies and websites today (Google, Amazon, Samsung, IBM, Facebook, Wikipedia, etc).</p>
+<p style="text-align: left;">The main component of Linux, the kernel, is the biggest active software project in history, being the most prominent example of free and open source software collaboration: the underlying source code may be used, modified, and distributed (commercially or non-commercially) by anyone under the GNU General Public License. Because of the fact that any programmer in the world can have a look at the source code (the “recipe” of any program), Linux is pretty close to being free of viruses. More eyes make fewer security flaws that can be exploited by viruses and malware.</p>
+<p style="text-align: justify;">Typically Linux is packaged in a format known as a Linux distribution (distro) for desktop and server use. A distro usually comes with a various pre-selected packages installed, and a graphical user environment (several nice looking choices are available: Gnome, KDE, Cinnamon, Unity, Xfce, LXDE, Enlightenment, etc)<br />
+<a href="http://www.neemeekaa.com/wp-content/uploads/2013/02/cinnamon.jpg" rel="lightbox"><img class=" wp-image-159 aligncenter" alt="Cinnamon" src="http://www.neemeekaa.com/wp-content/uploads/2013/02/cinnamon.jpg" width="384" height="216" /></a></p>
+<p>Some popular mainstream Linux distributions include Debian (and its derivatives such as Ubuntu and Linux Mint), Fedora (and its derivatives such as Red Hat Enterprise Linux and CentOS), OpenSUSE, and Arch Linux. An interesting time graph with all the known linux distributions since its inception can be seen <a href="http://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg" target="_blank">here</a>.</p>
+<p>Linux distributions include the Linux kernel, supporting utilities and libraries and usually a large amount of application software to fulfill the distribution’s intended use.</p>
+<p>Installing, updating and removing software in Linux is typically done through the use of simple applications called package managers. These package managers are using  extensive online repositories, containing tens of thousands of packages.</p>
+<p>Due to it’s stability and, the use of Linux distributions in home and enterprise desktops has been growing. They have also gained popularity with various local and national governments.</p>
+<p>- Since 2009 the White House have moved their computers to a Linux platform based on Red Hat Linux and Apache HTTP Server. (see <a href="http://www.pcworld.com/article/174746/obama_invites_open_source_into_the_white_house.html" target="_blank">link</a>)</p>
+<p>- Russian military started creating its own Linux distribution, under the name of G.H.ost Project (see <a href="http://joinup.ec.europa.eu/news/lv-minister-open-standards-improve-efficiency-and-transparency" target="_blank">link</a>)<br />
+- State owned Industrial and Commercial Bank of China (ICBC) has installed Linux in all of its 20,000 retail branches as the basis for its web server and a new terminal platform. (see <a href="http://www.informationweek.com/microsoft-fights-piracy-in-china-linux-w/170700943" target="_blank">link</a>)<br />
+- The French Parliament has switched to using Ubuntu on desktop PCs (see <a href="http://news.cnet.com/2100-7344_3-6138372.html" target="_blank">link</a>), and now is trying to make free software law for higher education (see <a href="http://joinup.ec.europa.eu/community/osor/news/french-parliament-makes-free-software-law-higher-education" target="_blank">link</a>)<br />
+- CERN (European Organization for Nuclear Research) partnered with Fermilab (Fermi National Accelerator Laboratory) to produce Scientific Linux, a distribution based on Red Hat Enterprise Linux especially for internal use in research<br />
+- NASA used Linux in their last Mars mission (see <a href="http://www.linuxjournal.com/article/7570" target="_blank">link</a>)<br />
+- The London Stock Exchange uses the Linux based MillenniumIT Millennium Exchange software for its trading platform (see <a href="http://blogs.computerworld.com/14876/london_stock_exchange_dumps_windows_for_linux" target="_blank">link</a>)</p>
+<p>Though, the list can be never ending, here is a list that includes the most popular reasons why one should try to use Linux:</p>
+<ol>
+<li>Linux gives freedom for software vendors and customers, so everyone has a level playing field, that encourages competition, thus benefiting customers, software vendors, and innovation in general.</li>
+<li>Since Linux has a wide range of hardware support and is customizable, it can be trimmed down (or built up) just to run on that particular hardware, that enhances the performance, reduces the footprint and cost of the device.</li>
+<li>Linux is free (as in freedom), so it can be used to solve specific problems in your local community e.g reducing language barrier to learn some software. When that software efficiently solves local problem, it can be scaled up to solve similar problems in global scale. This idea is reverse of what traditional software does, someone else trying to guess what local problems you need to solve using software.</li>
+<li>Linux can be used to plan and get your business setup very fast. There is almost no lack of software that can help you get your business started. After you get it running, you can invest time on refining the software you use, to help everyone else (or the platform), just as you got help from them. This is the heart of what open source is all about. Do it fast, do it without burden, and return back to improve overall experience.</li>
+</ol>
+
+				
+			</div>
+		</div>
+		<div class="clear"> </div>
+		
+<div id="commentsbox">
+	</div>
+		</div>
+
+<div id="right-sidebar">
+<aside id="perfect-quotes-2" class="widget widget_perfect_quote"><h3 class="widget-title">Quotes</h3><ul class="perfect-quotes">        <li>
+          If you think it&#8217;s expensive to hire a professional, wait until you hire an amateur          <span>
+                      </span>
+        </li>
+        </ul></aside><aside id="cool_tag_cloud-2" class="widget widget_cool_tag_cloud"><h3 class="widget-title">Categories</h3><div class="cool-tag-cloud"><div class="animation"><div class="ctcsilver"><div class="ctcleft"><div class="arial" style="text-transform:lowercase!important;"><a href='http://www.neemeekaa.com/category/design/' class='tag-link-14' title='0 topics' style='font-size: 10px;'>Web Design</a><a href='http://www.neemeekaa.com/category/it/java/jr/' class='tag-link-12' title='1 topic' style='font-size: 10.201342281879px;'>JasperReports</a><a href='http://www.neemeekaa.com/category/commerce/' class='tag-link-17' title='1 topic' style='font-size: 10.201342281879px;'>Commerce</a><a href='http://www.neemeekaa.com/category/design/html/' class='tag-link-2' title='3 topics' style='font-size: 10.402684563758px;'>HTML</a><a href='http://www.neemeekaa.com/category/it/javascript/' class='tag-link-7' title='5 topics' style='font-size: 10.523489932886px;'>JavaScript</a><a href='http://www.neemeekaa.com/category/cloud/' class='tag-link-10' title='6 topics' style='font-size: 10.570469798658px;'>Cloud</a><a href='http://www.neemeekaa.com/category/it/linux/' class='tag-link-4' title='19 topics' style='font-size: 10.872483221477px;'>Linux</a><a href='http://www.neemeekaa.com/category/it/' class='tag-link-8' title='26 topics' style='font-size: 10.959731543624px;'>IT</a><a href='http://www.neemeekaa.com/category/it/java/' class='tag-link-3' title='30 topics' style='font-size: 11px;'>Java</a></div></div></div></div></div></aside><aside id="text-5" class="widget widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- neemeekaa2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7811917752180918"
+     data-ad-slot="2966844892"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> <option value="">Select Month</option> 	<option value='http://www.neemeekaa.com/2019/08/'> August 2019 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2019/02/'> February 2019 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2019/01/'> January 2019 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2018/11/'> November 2018 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2018/10/'> October 2018 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2018/08/'> August 2018 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2018/07/'> July 2018 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2018/06/'> June 2018 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2018/05/'> May 2018 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2018/04/'> April 2018 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2018/03/'> March 2018 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2018/02/'> February 2018 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2018/01/'> January 2018 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2017/12/'> December 2017 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2017/11/'> November 2017 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2017/10/'> October 2017 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2017/09/'> September 2017 &nbsp;(2)</option>
+	<option value='http://www.neemeekaa.com/2017/08/'> August 2017 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2017/07/'> July 2017 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2017/06/'> June 2017 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2017/05/'> May 2017 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2017/04/'> April 2017 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2017/03/'> March 2017 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2017/02/'> February 2017 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2017/01/'> January 2017 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2016/12/'> December 2016 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2016/11/'> November 2016 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2016/10/'> October 2016 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2016/09/'> September 2016 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2016/08/'> August 2016 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2016/07/'> July 2016 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2016/06/'> June 2016 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2016/05/'> May 2016 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2016/04/'> April 2016 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2016/03/'> March 2016 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2016/02/'> February 2016 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2016/01/'> January 2016 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2015/12/'> December 2015 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2015/10/'> October 2015 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2015/09/'> September 2015 &nbsp;(2)</option>
+	<option value='http://www.neemeekaa.com/2015/08/'> August 2015 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2015/07/'> July 2015 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2015/06/'> June 2015 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2015/05/'> May 2015 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2015/04/'> April 2015 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2015/03/'> March 2015 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2015/02/'> February 2015 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2015/01/'> January 2015 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2014/12/'> December 2014 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2014/11/'> November 2014 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2014/10/'> October 2014 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2014/09/'> September 2014 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2014/08/'> August 2014 &nbsp;(2)</option>
+	<option value='http://www.neemeekaa.com/2014/07/'> July 2014 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2014/06/'> June 2014 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2014/05/'> May 2014 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2014/04/'> April 2014 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2014/03/'> March 2014 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2014/02/'> February 2014 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2014/01/'> January 2014 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2013/12/'> December 2013 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2013/11/'> November 2013 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2013/10/'> October 2013 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2013/09/'> September 2013 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2013/08/'> August 2013 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2013/07/'> July 2013 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2013/06/'> June 2013 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2013/04/'> April 2013 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2013/03/'> March 2013 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2013/02/'> February 2013 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2013/01/'> January 2013 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2012/12/'> December 2012 &nbsp;(1)</option>
+	<option value='http://www.neemeekaa.com/2012/11/'> November 2012 &nbsp;(1)</option>
+ </select>
+</aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><img src="http://www.neemeekaa.com/wp-content/uploads/2013/02/MainLogos.png" ></div>
+		</aside></div>
+
+
+
+
+
+<div id="footer">
+
+<div id="footer-content">
+
+
+<div id="footer-sidebar">
+	<div id="first-footer-widget" class="widget">
+	<aside id="social-widget-2" class="widget Social_Widget"><h3 class="widget-title">Follow Us!</h3><div class="socialmedia-buttons smw_left"><a href="http://www.facebook.com" rel="nofollow" target="_blank"><img width="32" height="32" src="http://www.neemeekaa.com/wp-content/plugins/social-media-widget/images/cutout/32/facebook.png" 
+				alt="Follow Us on Facebook" 
+				title="Follow Us on Facebook" style="opacity: 0.6; -moz-opacity: 0.6;" class="fade" /></a><a href="http://plus.google.com" rel="publisher" target="_blank"><img width="32" height="32" src="http://www.neemeekaa.com/wp-content/plugins/social-media-widget/images/cutout/32/googleplus.png" 
+				alt="Follow Us on Google+" 
+				title="Follow Us on Google+" style="opacity: 0.6; -moz-opacity: 0.6;" class="fade" /></a><a href="http://www.twitter.com" rel="nofollow" target="_blank"><img width="32" height="32" src="http://www.neemeekaa.com/wp-content/plugins/social-media-widget/images/cutout/32/twitter.png" 
+				alt="Follow Us on Twitter" 
+				title="Follow Us on Twitter" style="opacity: 0.6; -moz-opacity: 0.6;" class="fade" /></a><a href="http://www.linkedin.com" rel="nofollow" target="_blank"><img width="32" height="32" src="http://www.neemeekaa.com/wp-content/plugins/social-media-widget/images/cutout/32/linkedin.png" 
+				alt="Follow Us on LinkedIn" 
+				title="Follow Us on LinkedIn" style="opacity: 0.6; -moz-opacity: 0.6;" class="fade" /></a></div></aside>        </div><!-- #first .widget-area -->
+        
+
+	<div id="footer-widgets" class="widget">
+    <aside id="text-3" class="widget widget_text"><h3 class="widget-title">Location</h3>			<div class="textwidget"><p>
+Office 1:
+<a href="http://maps.google.com/maps?q=Charleston,&amp;SC" target="_blank">Charleston, SC, USA</a>
+</p>
+
+<p>
+Office 2:
+<a href="http://maps.google.com/maps?q=Sibiu,&amp;Romania" target="_blank">Sibiu, Romania</a>
+</p></div>
+		</aside>	</div><!-- #second .widget-area -->
+	
+	
+	<div id="footer-widgets" class="widget">
+    <aside id="text-4" class="widget widget_text">			<div class="textwidget"><img src="http://www.neemeekaa.com/wp-content/uploads/2013/02/java_certified.png" ></div>
+		</aside>	</div><!-- #third .widget-area -->
+
+        
+</div><!-- #footerwidget -->
+
+<div id="creditline">&copy; 2020: Neemeekaa Consulting, All Rights Reserved</div>
+</div> <!-- footer-content -->
+</div> <!-- footer -->
+</div><!-- container -->
+
+<!-- Simple Google Analytics Begin -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount','UA-38182773-1']);
+_gaq.push(['_trackPageLoadTime']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- Simple Google Analytics End -->
+<link rel='stylesheet' id='perfect_quotes-css'  href='http://www.neemeekaa.com/wp-content/plugins/perfect-quotes/includes/style.css?ver=3.5.1' type='text/css' media='all' />
+</body>
+</html>
